@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ListaTarefas" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primaryVariant</item>
+
+        <item name="colorAccent">@color/secundary</item>
+        <item name="colorSecondaryVariant">@color/secundaryVariant</item>
+
+        <item name="android:windowBackground">@color/fundo</item>"
+    </style>
+
+    <style name="Theme.ListaTarefas" parent="Base.Theme.ListaTarefas" />
+</resources>
